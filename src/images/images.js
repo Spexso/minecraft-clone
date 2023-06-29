@@ -1,4 +1,4 @@
-import dirtImg from './dir.jpg';
+import dirtImg from './dirt.jpg';
 import grassImg from './grass.jpg';
 import glassImg from './glass.png';
 import logImg from './log.jpg';
